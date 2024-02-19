@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MailPlainText/1.0.0": {
+        "runtime": {
+          "MailPlainText.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MailPlainText/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
